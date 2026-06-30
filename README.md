@@ -184,10 +184,10 @@ core/
 **Brajpal Singh**
 
 GitHub:
-https://github.com/yourusername
+https://github.com/Brajpal-Singh
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://www.linkedin.com/in/brajpal-singh-681453395
 
 ---
 
